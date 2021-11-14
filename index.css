@@ -102,3 +102,41 @@ li {
 #wood {
   text-align: center;
 }
+
+.Food {
+  border: solid grey;
+  display: flex;
+  margin: 3%;
+  margin-top: -2px;
+  padding: 2%;
+  background-color: white;
+
+}
+
+#menu1 {
+  display: flex;
+
+}
+
+#menu2 {
+  display: flex;
+}
+
+.Menu {
+  margin-left: 20%;
+  padding-top: 60px;
+}
+
+.meal {
+  padding-left: 4%;
+  margin-top: -8%;
+}
+
+.Review {
+  padding-left: 2%;
+  text-align: center;
+  background-color: black;
+  color: white;
+  width: 655px;
+  padding-top: 2%;
+}
