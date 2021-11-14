@@ -62,3 +62,22 @@ li {
   background-size: cover;
   height: 400px;
 }
+
+.service {
+  text-align: center;
+}
+
+
+#Order {
+  display: flex;
+  margin-left: 21%;
+  height: 200px;
+}
+
+.one {
+  border: solid grey;
+  text-align: center;
+  margin: 1%;
+  background-color: white;
+  width: 230px;
+}
