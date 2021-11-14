@@ -39,3 +39,9 @@ li {
   height: 40px;
   padding-top: 20px;
 }
+
+.premium {
+  color: white;
+  margin-left: 5%;
+  padding: 40px;
+}
