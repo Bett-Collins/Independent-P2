@@ -1,0 +1,41 @@
+
+Independent-P2
+# Author
+Kiprotich Collins
+### Description
+The website is about Moringa restaurant,it entails more of what Moringa restaurant offers.
+### Prerequisities
+You need to have git installed
+You can install it with the following command in your terminal
+`$ sudo apt install git-all`
+### Setup
+To access this project on your local files, you can clone it using these steps
+1. Open your terminal
+1. Use this command to clone `$ git clone
+ 
+https://github.com/Bett-Collins/Independent-P2
+
+1. This will clone the repository into your local folder.
+### Technologies Used
+1. HTML
+1. CSS
+1. Git
+### Live Site
+View [Live]  https://github.com/Bett-Collins/Independent-P2
+### Licence
+This project is under the  [MIT](license) license
+
+This is a simple website for Moringa restaurant .
+Website
+
+https://github.com/Bett-Collins/Independent-P2
+
+Language
+CSS
+Added by GitHub
+Independent-Project2
+This is a simple website for Moringa restaurant.
+Website
+https://github.com/Bett-Collins/Independent-P2
+Language
+HTML
