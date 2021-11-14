@@ -98,3 +98,7 @@ li {
   display: flex;
   padding-top: 5%;
 }
+
+#wood {
+  text-align: center;
+}
